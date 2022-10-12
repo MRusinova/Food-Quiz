@@ -6,3 +6,18 @@ body {
     height: 30rem;
     
 }
+
+#quizbox {
+    height: 80%;
+    width: 75%;
+    background-color: white;
+    opacity: 0.5;
+    display: flex;
+    padding-right: 40px 80px 40px 80px;
+    margin-left: 10rem;
+    margin-top: 7rem;
+    text-align: center;
+    border: solid 2px;
+    border-radius: 15%;
+
+}
