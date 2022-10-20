@@ -1,28 +1,46 @@
+/* Adding a background image and positioning it*/
 body {
     background-image: url(../images/background.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
     height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
-
+/* Styling the box containing the questions and buttons*/
 #quizbox {
     height: 80%;
-    width: 75%;
+    width: 400pxpx;
     background: rgba(255, 255, 255, 0.5);
     display: flex;
-    padding-right: 40px 80px 40px 80px;
-    margin-left: 10rem;
-    margin-top: 7rem;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
     border: solid 2px;
     border-radius: 15%;
 
 }
-
+/* Position the text in the beggining*/
 .quiz-text {
-    text-align: center;
-    padding-left: 12em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: black;
+}
+
+/* Position Previous and Next Question buttons*/
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Position Submit button*/
+#submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
 }
