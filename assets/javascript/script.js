@@ -1,103 +1,84 @@
 let myQuestions = [
     {
-        question: "Which type of beans are used to make baked beans?",
-        answers: {
+        question: 'Which type of beans are used to make baked beans?',
+        
             a: 'Borlotti beans',
             b: 'Haricot beans',
             c: 'Cannellini beans',
-            d: 'Flageolet beans'
-            },
-            correctAnswer: 'b'
+            d: 'Flageolet beans',
+            correctAnswer: 'b',
     },
     {
-        question: "What does IPA stand for?",
-        answers: {
+        question: 'What does IPA stand for?',
             a: 'Intensely potent ale',
             b: 'India pale ale',
             c: 'India premium ale',
-            d: 'International porter association'
-        },
-        correctAnswer: 'b'
+            d: 'International porter association',
+        correctAnswer: 'b',
     },
     {
-        question: "Bobotie is the national dish of which country?",
-        answers: {
+        question: 'Bobotie is the national dish of which country?',
             a: 'Nigeria',
             b: 'Ethiopia',
             c: 'South Africa',
-            d: 'Kenya'
-        },
-        correctAnswer: 'c'
+            d: 'Kenya',
+        correctAnswer: 'c',
     },
     {
-        question: "Which year did The Great British Bake Off first appear on TV?",
-        answers: {
+        question: 'Which year did The Great British Bake Off first appear on TV?',
             a: '2009',
             b: '2010',
             c: '2011',
-            d: '2012'
-        },
-        correctAnswer: 'b'
+            d: '2012',
+        correctAnswer: 'b',
     },
     {
-        question: "If you ordered nigiri from a Japanese restaurant menu, what would you be served?",
-        answers: {
+        question: 'If you ordered nigiri from a Japanese restaurant menu, what would you be served?',
             a: 'A type of dumpling',
             b: 'A selection of sliced raw fish & seafood',
             c: 'A type of sushi featuring rice topped with fish or seafood',
-            d: 'A type of sushi featuring raw fish or seafood wrapped in rice and seaweed'
-        },
-        correctAnswer: 'c'
+            d: 'A type of sushi featuring raw fish or seafood wrapped in rice and seaweed',
+        correctAnswer: 'c',
     },
     {
-        question: "Which of these chocolate bars does not contain nuts in its ingredient list?",
-        answers: {
+        question: 'Which of these chocolate bars does not contain nuts in its ingredient list?',
             a: 'Snickers',
             b: 'Double Decker',
             c: 'Picnic',
-            d: 'Toblerone'
-        },
-        correctAnswer: 'b'
+            d: 'Toblerone',
+        correctAnswer: 'b',
     },
     {
-        question: "Which flower does the spice saffron come from?",
-        answers: {
+        question: 'Which flower does the spice saffron come from?',
             a: 'Orchid',
             b: 'Crocus',
             c: 'Nasturtium',
-            d: 'Poppy'
-        },
-        correctAnswer: 'b'
+            d: 'Poppy',
+        correctAnswer: 'b',
     },
     {
-        question: "A Whitby Bun is flavoured with what?",
-        answers: {
+        question: 'A Whitby Bun is flavoured with what?',
             a: 'Raspberry',
             b: 'Coffee',
             c: 'Cinnamon',
-            d: 'Lemon'
-            },
-            correctAnswer: 'd'
+            d: 'Lemon',
+            correctAnswer: 'd',
     },
     {
-        question: "Gruyère is a cheese from which country?",
-        answers: {
+        question: 'Gruyère is a cheese from which country?',
             a: 'France',
             b: 'Switzerland',
             c: 'Austria',
-            d: 'Germany'
-        },
+            d: 'Germany',
         correctAnswer: 'b'
     },
     {
-        question: "What are the two main ingredients in the dish Cullen Skink?",
-        answers: {
+        question: 'What are the two main ingredients in the dish Cullen Skink?',
             a: 'Smoked haddock and parsnips',
             b: 'Cabbage and potatoes',
             c: 'Smoked haddock and potatoes',
-            d: 'Smoked salmon and potatoes'
-        },
-        correctAnswer: 'c'
+            d: 'Smoked salmon and potatoes',
+        correctAnswer: 'c',
     }
 
-]
+];
